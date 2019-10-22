@@ -1,0 +1,14 @@
+
+.Navbar {
+    border: 2px solid greenyellow;
+    min-height: 33px;
+    background-color: #ffffff;
+    max-width: 1920px;
+}
+
+.Navbarleft {
+    margin-left: 374px;
+    margin-top: 15px;
+}
+
+
