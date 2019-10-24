@@ -1,0 +1,118 @@
+{
+  "headerLinks": [
+    {
+      "name": "home",  
+      "path": "/",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "store",
+      "path": "/store",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "iphone",
+      "path": "/iphone",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "ipad",
+      "path": "/ipad",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "macbook",
+      "path": "/macbook",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "accessories",
+      "path": "/accessories",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    }
+  ],
+
+  "bestSeller": {
+    "list": ["All", "Mac", "iphone", "ipad", "Accessories"],
+    "data": [
+      {
+        "id": "5db037ab06454948bf90e9c9",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037ab40e87985b8ece6db",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037abf06c936cca2e05c9",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037ab8f2f29f980016956",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037abeaf0489febacfcee",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037ab7fe1856ab0c2bbaf",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037ab806b3f608fa79055",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      },
+      {
+        "id": "5db037abeca339740df185ae",
+        "name": "Apple MacBook Pro",
+        "currentPrice": 499,
+        "oldPrice": 599
+      }
+    ]
+  }
+}

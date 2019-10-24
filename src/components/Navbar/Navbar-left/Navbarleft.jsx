@@ -11,7 +11,7 @@ function Navbarleft(){
             <select name="" id="" className="Navbarleft__two">
                 <option value="USD">USD</option>
             </select>
-            <i class="fas fa-search"></i>
+            
         </div>
     );
 }

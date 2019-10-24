@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Navbarright__wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
+
+.Navbarright__profile {
+    display: flex;
+    
+    margin-right: 10px;
+}
+
+ .Navbarright--ps {
+    margin-right: 5px;
+}
+
+.Navbarright__items {
+    display: flex;
+    margin-right: 10px;
+}
+
+.Navbarright__cost {
+    display: flex;
+    margin-right: 10px;
+}
+
+.Navbarright__search {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 30px;
+}
