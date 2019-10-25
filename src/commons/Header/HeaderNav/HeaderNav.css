@@ -1,20 +1,27 @@
 .Header-links {
   display: flex;
   flex-direction: row;
-  border: 1px black solid;
+  /* border: 1px black solid; */
   justify-content: center;
   align-items: center;
+  flex: 1;
 }
 
 .Header-links ul {
   display: flex;
   width: 50%;
   justify-content: space-between;
-  border: 1px rgb(194, 7, 7) solid;
+  /* border: 1px rgb(194, 7, 7) solid; */
+  
 }
 
 .Header-links ul li {
+  display: flex;
+  justify-content: center;
   list-style: none;
+  padding-right: 20px;
+  flex: 1;
+  
 }
 
 .Header-links ul li:hover .links-categories {

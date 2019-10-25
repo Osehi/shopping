@@ -3,18 +3,21 @@ import Header from '../../commons/Header/Header'
 import BestSellerList from '../../components/BestSellerList'
 import {bestSeller} from '../../data/metadata.json';
 // import Navbar from './components/Navbar';
+import './homepage.css';
+import HeroDisplay from '../../components/HeroDisplay/HeroDisplay'
 
 export default function Homepage(){
     return(
         <div className="homepage-container">
             {/* <Navbar /> */}
-           <Header/>
-           {/* //some other contents before this */}
+            
+            <Header/>
+            <HeroDisplay/>
 
            <div className='bestseller-container'>
                 <h3>best seller</h3>
                 <div className='bestseller-navLinks'>
-                    <ul>
+                    <ul className='bestseller-list'>
                     {bestSeller.list.map((list) => (
                         <li key={list}>{list}</li>
                     ))}
